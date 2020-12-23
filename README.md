@@ -1,16 +1,18 @@
-# weather_app
+Weather_app
 
-A new Flutter application.
+Built using Flutter on Android Studio for Android platform
 
-## Getting Started
+Usage : 
+1. Check city/country/continent current weather
+2. Contents : temperature, min temperature, max temperature, humidity, pressure
 
-This project is a starting point for a Flutter application.
+How to use : 
+1. Click on the search box
+2. Type city/country/continent name
+3. Click "search" button, then app will show data
+4. After checking weather, click on the "search" button to go back to search box
+5. If place can not be found or text box is empty, then app will show error message
+6. If error message shows, click "back" button to go back to search box
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Note : 
+1. App is using internet to check current weather
